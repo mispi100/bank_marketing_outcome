@@ -15,6 +15,9 @@ Available on the UCI Machine Learning Repository (Bank Marketing Dataset).
 # Explore Dataset.ipynb
 Fast Check Up of the Data and Benchmarking
 
+# ManualFLatNeuralNet.ipynb
+Implementation of Single-Layer Neural Net
+
 Steps:
 * Simple Cleanup and One-Hot-Encoding of Variables
 * Correlation and drop unimportant(and high correlated) columns
@@ -31,7 +34,7 @@ Steps:
 | Explore Dataset.ipynb | LazyPredict  | NearestCentroid       | Yes   | No     | 0.74   | 0.86     | 0.38     |
 | Explore Dataset.ipynb | LazyPredict  | NearestCentroid       | No   | No     | 0.77   | 0.85     | 0.32     |
 | Explore Dataset.ipynb | tpot  | TPOTClassifier       | Yes   | No     | 0.77   | 0.85     | 0.32     |
-| ManualNeuralNet.ipynb | numpy | One-Layer_NN | No | No | 0.52 | 0.84 | 0.12 |
-| ManualNeuralNet.ipynb | numpy | One-Layer_NN | Yes | No | 0.83 | 0.83 | 0.47 |
+| ManualNeuralNet.ipynb | numpy | Single-Layer_NN | No | No | 0.52 | 0.84 | 0.12 |
+| ManualNeuralNet.ipynb | numpy | Single-Layer_NN | Yes | No | 0.83 | 0.83 | 0.47 |
 
 
