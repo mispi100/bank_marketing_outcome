@@ -39,5 +39,6 @@ Steps:
 | Explore Dataset.ipynb | tpot  | TPOTClassifier       | Yes   | No     | 0.77   | 0.85     | 0.32     |
 | Manual Single-Neuron Model.ipynb | numpy | Single-Neuron Model | No | No | 0.52 | 0.84 | 0.12 |
 | Manual Single-Neuron Model.ipynb | numpy | Single-Neuron Model | Yes | No | 0.83 | 0.83 | 0.47 |
+| Manual Single-Layer Neural Network.ipynb | numpy | 26Neuron Model | Yes | Yes | 0.72 | 0.80 | 0.49 |
 
 
